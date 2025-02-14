@@ -1,3 +1,5 @@
+Link for the colab - https://colab.research.google.com/drive/1dB6yzquW_50xEO1zVtFzWQhsJtLXyIYn?usp=sharing 
+
 # NYC Parking Ticket Data Analysis
 
 ## Overview
